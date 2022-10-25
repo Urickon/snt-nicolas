@@ -87,7 +87,7 @@
                 >
                   <v-row>
                     <v-col
-                      v-for="n in 12"
+                      v-for="n in 18"
                       :key="n"
                       class="d-flex child-flex"
                       cols="12"
